@@ -1,0 +1,12 @@
+#word-container {
+  border: 1px red solid;
+}
+
+#guesses-container {
+  border: 1px green solid;
+  height: 20px;
+}
+
+#buttons-container {
+  border: 1px blue solid;
+}
